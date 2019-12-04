@@ -1,2 +1,0 @@
-# power
-Power usage prediction
